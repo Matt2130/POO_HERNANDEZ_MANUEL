@@ -2,7 +2,7 @@ edades = [2,5,76,8,10,58,63,14,18,20,75,63,9]
 may_edad = []
 men_edad = []
 
-print(f"\fLa lista con todas las edades es {edades}")
+print(f"\nLa lista con todas las edades es {edades}")
 
 for i in edades:
     if i <= 17: 
